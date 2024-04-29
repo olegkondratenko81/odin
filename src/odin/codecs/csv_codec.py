@@ -15,7 +15,7 @@ Reading data from a CSV file::
 
 """
 import csv
-from io import StringIO
+from io import StringIO 
 
 from odin import bases
 from odin.datastructures import CaseLessStringList
